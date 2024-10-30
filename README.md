@@ -1,5 +1,5 @@
 # SecureAuth
-<<<<<<< HEAD
+
 
 A secure authentication system implementing industry-standard encryption and security practices for user authentication and data protection.
 
