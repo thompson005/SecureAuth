@@ -112,7 +112,7 @@ Project Link: [https://github.com/thompson005/SecureAuth](https://github.com/tho
 - [Python Cryptography](https://cryptography.io/)
 - [MySQL Connector/Python](https://dev.mysql.com/doc/connector-python/en/)
 - [PBKDF2 Documentation](https://en.wikipedia.org/wiki/PBKDF2)
-=======
+
 
 
 SecureAuth is a Python-based authentication system that securely stores user credentials in MySQL using encryption and hashing techniques for enhanced security
