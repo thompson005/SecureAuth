@@ -115,4 +115,3 @@ Project Link: [https://github.com/thompson005/SecureAuth](https://github.com/tho
 
 
 
-SecureAuth is a Python-based authentication system that securely stores user credentials in MySQL using encryption and hashing techniques for enhanced security
